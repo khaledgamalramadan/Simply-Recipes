@@ -28,26 +28,19 @@ The site is designed to showcase different recipes with categories, preparation 
 
 ## 📂 Project Structure
 
-project/
-│── index.html
-│── about.html
-│── recipes.html
-│── tags.html
-│── tag-templete.html
-│── contact.html
-│── error.html
-│── single-recipes.html
-│── css/
-│ ├── normalize.css
-│ └── main.css
-│── js/
-│ └── app.js
-│── assets/
-│ ├── favicon.ico
-│ ├── logo.svg
-│ ├── about.jpeg
-│ └── recipes/
-│ ├── recipe-1.jpeg
-│ ├── recipe-2.jpeg
-│ ├── recipe-3.jpeg
-│ └── recipe-4.jpeg
+
+---
+
+## 📸 Preview
+- Homepage with hero banner and recipes list  
+- About page with description and featured recipes  
+- Contact page with form  
+- Tags page for browsing categories  
+- Error 404 page  
+
+---
+
+## 👨‍💻 Author
+Built by **Khaled Jamal Ramadan**  
+[GitHub Profile](https://github.com/khaledgamalramadan)
+
